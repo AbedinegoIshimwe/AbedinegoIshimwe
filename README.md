@@ -2,7 +2,7 @@
 
 > Building high-leverage technology designed for real-world impact and clean user experiences.
 
-* 💻 **Full-Stack Engineer** specializing in minimalist, data-driven web applications.
+* 💻 **Software Engineer** specializing in minimalist, data-driven web applications.
 * 🛠 **Core Stack:** Python • PHP (Laravel) • UI & UX Design.
 * 🚀 **Architecture Focus:** Designing scalable backends, robust database systems, and solving societal challenges.
 * 🤝 **Collaboration:** Open to contributing to meaningful tech products and open-source projects.
