@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Abedinego Ishimwe
 
-<!--
-**AbedinegoIshimwe/AbedinegoIshimwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building technology for real people, real problems, and real impact.
 
-Here are some ideas to get you started:
+- 💻 Software Engineer passionate about building impactful technology  
+- 🌍 Interested in solving real-world societal challenges through software  
+- 🛠️ Exploring scalable systems, software architecture, and problem-solving through code  
+- 🤝 Open to collaborating on meaningful and impactful tech projects  
+- 🏃 Recreational runner  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+- 🔗 LinkedIn: https://www.linkedin.com/in/abedinego-ishimwe-b0b223230/
+- 🐦 Twitter/X: https://x.com/AbedinegoI
