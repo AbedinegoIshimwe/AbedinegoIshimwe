@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Abedinego Ishimwe
 
-> Building technology for real people, real problems, and real impact.
+> Building high-leverage technology designed for real-world impact and clean user experiences.
 
-- 💻 Software Engineer passionate about building impactful technology  
-- 🌍 Interested in solving real-world societal challenges through software  
-- 🛠️ Exploring scalable systems, software architecture, and problem-solving through code  
-- 🤝 Open to collaborating on meaningful and impactful tech projects  
-- 🏃 Recreational runner  
+* 💻 **Full-Stack Engineer** specializing in minimalist, data-driven web applications.
+* 🛠 **Core Stack:** Python • PHP (Laravel) • UI & UX Design.
+* 🚀 **Architecture Focus:** Designing scalable backends, robust database systems, and solving societal challenges.
+* 🤝 **Collaboration:** Open to contributing to meaningful tech products and open-source projects.
+* 🏃 **Outside of Code:** Recreational runner.
+
 
 ### 🌐 Connect with me
 - 🔗 LinkedIn: https://www.linkedin.com/in/abedinego-ishimwe-b0b223230/
