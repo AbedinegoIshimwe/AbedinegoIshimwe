@@ -61,5 +61,11 @@
 ---
 
 <div align="center">
+
+```txt
+"Technology should help people communicate,
+grow, and create opportunities."
 ```
+
+</div>
 
