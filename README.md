@@ -2,7 +2,7 @@
 
 > Building high-leverage technology designed for real-world impact and clean user experiences.
 
-* 💻 **Software Engineer** passionate about building Welbsites, AI-powered applications, mobile apps, and cloud solutions that create meaningful impact for African communities.
+* 💻 **Software Engineer** passionate about building websites, scalable applications, mobile apps, and cloud solutions that create meaningful impact for African communities.
 * 🚀 **Architecture Focus:** Designing scalable backends, robust database systems, and solving societal challenges.
 * 🤝 **Collaboration:** Open to contributing to meaningful tech products and open-source projects.
 * 🏃 **Outside of Code:** Recreational runner.
